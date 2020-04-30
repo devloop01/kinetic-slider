@@ -11,13 +11,8 @@ const slider = new rgbKineticSlider({
 	slideImages: images,
 	itemsTitles: texts,
 
-	// backgroundDisplacementSprite: "images/map-9.jpg",
-	// cursorDisplacementSprite: "images/displace-circle.png",
-
-	backgroundDisplacementSprite:
-		"http://hmongouachon.com/_demos/rgbKineticSlider/map-3.jpg",
-	cursorDisplacementSprite:
-		"http://hmongouachon.com/_demos/rgbKineticSlider/map-7.jpg",
+	backgroundDisplacementSprite: "images/map-9.jpg",
+	cursorDisplacementSprite: "images/displace-circle.png",
 
 	cursorImgEffect: true,
 	cursorTextEffect: false,
